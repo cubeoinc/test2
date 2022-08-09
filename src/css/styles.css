@@ -73,21 +73,19 @@
 @media (max-width: 1000px) {
   .bg .section {
     margin-top: -81px;
-    height: 730px;
   }
 }
 
 @media (max-width: 1000px) and (max-width: 600px) {
   .bg .section {
     margin-top: -174px;
-    height: 730px;
   }
 }
 
 @media (min-width: 500px) and (min-width: 600px) {
   .bg .section {
     margin-top: -174px;
-    height: 530px;
+    height: 810px;
   }
 }
 
